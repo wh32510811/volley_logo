@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+         <group android:checkableBehavior="single">
+                 <item android:title="选项一"
+                     android:id="@+id/it1"
+                     android:icon="@mipmap/ic_launcher">
+                 </item>
+             <item android:title="选二"
+                 android:id="@+id/it2"
+                 android:icon="@mipmap/ic_launcher">
+             </item>
+             <item android:title="选项三"
+                 android:id="@+id/it3"
+                 android:icon="@mipmap/ic_launcher">
+             </item>
+             <item android:title="选项四"
+                 android:id="@+id/it4"
+                 android:icon="@mipmap/ic_launcher">
+             </item>
+
+         </group>
+       <!--<item-->
+           <!--android:title="其它选项">-->
+           <!--<menu>-->
+               <!--<item android:title="按钮一"-->
+                   <!--android:id="@+id/imi1"-->
+                   <!--android:icon="@mipmap/ic_launcher"/>-->
+               <!--<item android:title="按钮二"-->
+                   <!--android:id="@+id/imi2"-->
+                   <!--android:icon="@mipmap/ic_launcher"/>-->
+           <!--</menu>-->
+
+       <!--</item>-->
+</menu>
